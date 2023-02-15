@@ -10,8 +10,9 @@ Compte rendu sur le développement du jeu "ReBorn Project"
     :maxdepth: 2
     :caption: Table des matières
 
-    introduction.md
-
+    0.introduction.md
+    1.ReBorn Project
+    2.code.md
     references.rst
 
 ..
