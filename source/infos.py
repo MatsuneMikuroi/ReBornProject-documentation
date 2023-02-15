@@ -1,6 +1,6 @@
 class DocumentInfos:
 
-    title = u'Reborn Project doc'
+    title = u'Reborn Project'
     first_name = 'Romain'
     last_name = 'De Groote'
     author = f'{first_name} {last_name}'
@@ -8,7 +8,7 @@ class DocumentInfos:
     month = u'Décembre'
     seminary_title = u'Travail personnel d\' OCI'
     tutor = u"Cédric Donner"
-    release = "(Version finale)"
+    release = "(Version intermédiaire)"
     repository_url = "https://github.com/donnerc/prog-dynamique"
 
     @classmethod
