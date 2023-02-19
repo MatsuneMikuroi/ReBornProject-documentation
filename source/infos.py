@@ -4,12 +4,12 @@ class DocumentInfos:
     first_name = 'Romain'
     last_name = 'De Groote'
     author = f'{first_name} {last_name}'
-    year = u'2022'
-    month = u'Décembre'
+    year = u'2023'
+    month = u'Février'
     seminary_title = u'Travail personnel d\' OCI'
     tutor = u"Cédric Donner"
-    release = "(Version intermédiaire)"
-    repository_url = "https://github.com/donnerc/prog-dynamique"
+    release = "Version intermédiaire"
+    repository_url = "https://github.com/MatsuneMikuroi/ReBornProject"
 
     @classmethod
     def date(cls):
