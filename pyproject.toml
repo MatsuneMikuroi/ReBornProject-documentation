@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "prog-dynamique"
+name = "ReBorn-Project"
 version = "0.1.0"
 description = ""
 authors = ["Cédric Donner <cedonner@gmail.com>"]

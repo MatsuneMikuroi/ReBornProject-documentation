@@ -8,7 +8,7 @@ SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = source
 BUILDDIR      = build
 
-TARGET = prog-dynamique
+TARGET = ReBorn-Project
 
 PDFVIEWER = explorer.exe
 
