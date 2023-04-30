@@ -8,7 +8,7 @@ class DocumentInfos:
     month = u'Février'
     seminary_title = u'Travail personnel d\' OCI'
     tutor = u"Cédric Donner"
-    release = "Version intermédiaire"
+    release = "Version finale"
     repository_url = "https://github.com/MatsuneMikuroi/ReBornProject"
 
     @classmethod
