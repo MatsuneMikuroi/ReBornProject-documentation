@@ -10,4 +10,6 @@ Compte rendu sur le développement du jeu "ReBorn Project"
     2.tools.md
     3.code.md
     4.conclusion.md
+    5.reprise.md
+    references.rst
     references.rst
